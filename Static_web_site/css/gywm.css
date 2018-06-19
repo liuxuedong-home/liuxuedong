@@ -1,0 +1,27 @@
+.conter1{
+	width: 100%;
+	height: 250px;
+	background-image:url(../img/523286c02ad495bcde03c417334ec97b.JPG);
+}
+.PersonalHomePage{
+	width: 960px;
+	margin: 0 auto;
+	font-size: 40px;
+	color: #FFFFFF;
+	line-height: 250px;
+	font-family: "微软雅黑";
+}
+.conter1_center{
+	width: 957px;
+	height: 900px;
+	margin: 0 auto;
+	background-color: #264a87;
+	background-repeat: no-repeat;
+	position: center 50%;
+}
+.Photo{
+	width: 200px;
+	height: 400px;
+	margin-left: auto;
+	background-image: ;
+}

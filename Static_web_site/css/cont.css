@@ -1,0 +1,51 @@
+.conterbox_right_ban{
+	width: 100%;
+	margin-top: 20px;
+}
+.conterbox_right_ban img{
+	width: 100%;
+	display: block;
+}
+.conter .conterbox .conterbox_right1 p{
+	margin:10px 0;
+	line-height: 30px;
+	text-indent: 15px;
+}
+.gsjianjie{
+	font-size: 18px;
+    margin-top: 12px;
+    font-family: "微软雅黑";
+    display: block;
+}
+.conter .conterbox .conterbox_right ul.knowle li{
+    border-bottom: 1px dashed #ccc;
+    background-image: url(../img/top_bg_17.jpg);
+    background-repeat: no-repeat;
+    background-position: 0px 13px;
+    padding-left: 15px;
+    line-height: 30px;
+}
+.conter .conterbox1 > dl{
+	width: 300px;
+    height: auto;
+    float: left;
+    margin: 8px;
+}
+.conter .conterbox1 > dl dt{
+	width: 100%;
+	height: 200px;
+}
+.conter .conterbox1 > dl dt img{
+	display: block;
+	width: 100%;
+	height: 200px;
+}
+.conter .conterbox1 > dl dd{
+	width: 100%;
+	text-align: center;
+	margin-top: 15px;
+}
+.conter .conterbox .conterbox_right2 p{
+	line-height: 25px;
+    text-align: left;
+}
